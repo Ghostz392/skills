@@ -239,3 +239,39 @@ General workflow tools, not code-specific.
 
 - **[grilling](./skills/productivity/grilling/SKILL.md)**: Interview the user relentlessly about a plan, decision, or idea until every branch of the design tree is resolved. The reusable interview primitive behind `grill-me`, `grill-with-docs`, `triage`, `wayfinder` and `improve-codebase-architecture`.
 - **[writing-for-agents](./skills/productivity/writing-for-agents/SKILL.md)**: Writing documents for agents: skills, AGENTS.md/CLAUDE.md, and any doc an agent reaches by a pointer.
+The Internet Archive is a non-profit digital library founded in 1996 by Brewster Kahle with the mission to provide "universal access to all knowledge".
+
+Key Features & Collections
+
+• Wayback Machine: An archive of hundreds of billions of web pages that lets you see how websites looked in the past.
+• Digital Books: Millions of free and borrowable books, documents, and texts.
+• Audio & Music: Live music recordings, audiobooks from LibriVox, radio shows, and 78rpm records.
+• Software & Games: A massive collection of historical and vintage computer programs, console games, and CD-ROMs.
+• Video & TV: Feature films, television news broadcasts, and historical videos.
+Would you like help searching for a specific website in the Wayback Machine or finding a particular book or file in the archive?
+Internet Archive
+Digital Library of Free & Borrowable Texts, Movies, Music ... - Internet Archive
+Skip to main content. An icon used to represent a menu that can be toggled by interacting with this icon. Wayback Machine Texts Video Audio Software Images Dona...
+Internet Archive
+Download & Streaming : The Internet Archive Software Collection
+The Internet Archive Software Collection is the largest vintage and historical software library in the world, providing instant access to millions of programs, ...
+Wikipedia
+Internet Archive - Wikipedia
+Internet Archive. Article · Talk. Language; Save; Edit; Download PDF. "archive.org" redirects here; not to be confused with arXiv or archive.today. The Internet...
+Internet Archive
+Sign Up at the Internet Archive
+Get your virtual library card and access 65+ million free and borrowable books, movies, audio, images, software, and more! Already have one? Log in! Email me a ...
+YouTube·Internet Archive
+16m
+How to use the Internet Archive
+X·internetarchive
+Internet Archive (@internetarchive) / X
+Organization: Internet Archive (San Francisco, CA; non-profit research library preserving web pages, books, movies, audio). Activities: Digitizing books by hand...
+YouTube·InfoLion Tech
+6m
+como usar o internet archive e wayback machine
+A organização criminosa que historicamente e atualmente movimenta a maior quantidade de dinheiro no mundo é a Yakuza japonesa, especificamente o clã Yamaguchi-gumi. De acordo com estimativas de relatórios globais (como os da ONU e especialistas internacionais), o faturamento do grupo atinge cerca de US$ 80 bilhões por ano.
+Embora o crime organizado movimente cerca de US$ 3 trilhões anualmente de forma global, as máfias não costumam divulgar "gastos corporativos", mas sim investimentos pesados em lavagem de dinheiro, corrupção institucional, aquisição de imóveis e infiltração no comércio legítimo em cidades de todo o planeta.
+
+As Máfias Mais Ricas do Mundo (Faturamento Estimado)
+
